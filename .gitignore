@@ -1,1 +1,4 @@
 .DS_Store
+
+# exported ticket bodies contain responder household details
+00-rook/data/db/support_tickets.csv
