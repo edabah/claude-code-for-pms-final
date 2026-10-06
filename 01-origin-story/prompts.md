@@ -23,7 +23,10 @@ prompt library built from your own questions.
 ---
 
 ### 1.
+What's contradictory or missing, not just in the company documents, but across everything in 00-rook?
 
 ### 2.
+Based on everything you now know about Rook, what should I be worried about that nobody has told me?
 
 ### 3.
+As a new PM on the team, trying to debug these issues, what should I focus on first?
